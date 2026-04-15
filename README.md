@@ -16,7 +16,7 @@ I like building things that are not just functional, but feel intuitive and huma
 
 ---
 
-## **Projects  **
+## Projects
 
 <div align="left">
 
@@ -44,7 +44,7 @@ https://medium.com/@afreenaurshi.creates
 
 ---
 
-##** Skills**  
+## Skills 
 C++, Python (learning)  
 Figma, Canva  
 HTML, CSS (basics)  
@@ -58,33 +58,25 @@ HTML, CSS (basics)
 <a href="mailto:arshiafreen090@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/afreen-aurshi-60477b331/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://github.com/arshiafreen090">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://x.com/afreenaurshi">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-
 <a href="https://www.fiverr.com/afreen_creates_?public_mode=true">
   <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </a>
-
 <a href="https://www.instagram.com/a_feening?igsh=dXlidnI5cWswZWVk">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 <a href="https://medium.com/@afreenaurshi.creates">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-
 </p>
-
 ---
 
 ## Currently 
