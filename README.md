@@ -1,29 +1,24 @@
-# A_feening
-<p align="right">
-  <img src="https://tenor.com/en-IN/view/dancing-cat-jump-cat-cat-cute-cat-kitten-gif-12685105359798586488" width="120" />
-</p>
-
-# Hello, i'm Afreen.  
+#** Hello, I'm Afreen.  **
 
 CSE Undergrad | Designer | Tech Explorer  
 
 ---
 
-## About Me  
+##** About Me ** 
 I'm a Computer Science undergrad who enjoys blending design and technology.  
 I like building things that are not just functional, but feel intuitive and human.  
 
 ---
 
-> [!NOTE]  
+> [NOTE]  
 > Exploring UI/UX, development, and writing.  
 > Recently started experimenting with content creation — learning as I go.
 
 ---
 
-## Projects  
+## **Projects  **
 
-<div align="center">
+<div align="left">
 
 | Project   | Description |
 |----------|------------|
@@ -34,9 +29,9 @@ I like building things that are not just functional, but feel intuitive and huma
 
 ---
 
-## Design  
+## **Design**  
 
-<p align="center">
+<p align="left">
   <a href="https://www.figma.com/proto/g0RgyLXIo9hyipAYYwNu8d/Portfolio?node-id=3-2&t=FcrSXksIFxcdKh8o-1&starting-point-node-id=3%3A2">
     <img src="https://img.shields.io/badge/Figma%20Portfolio-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
@@ -44,21 +39,21 @@ I like building things that are not just functional, but feel intuitive and huma
 
 ---
 
-## Blogs  
+##** Blogs ** 
 https://medium.com/@afreenaurshi.creates  
 
 ---
 
-## Skills  
+##** Skills**  
 C++, Python (learning)  
 Figma, Canva  
 HTML, CSS (basics)  
 
 ---
 
-## Connect  
+##** Connect ** 
 
-<p align="center">
+<p align="left">
 
 <a href="mailto:arshiafreen090@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -92,14 +87,14 @@ HTML, CSS (basics)
 
 ---
 
-## Currently  
+## **Currently ** 
 Learning more about development and design  
 Building meaningful projects  
 Exploring content creation  
 
 ---
 
-## Random Facts  
+##** Random Facts ** 
 I write poetic and expressive content  
 I pay attention to small design details  
 I like combining creativity with logic  
