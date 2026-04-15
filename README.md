@@ -1,16 +1,16 @@
-#** Hello, I'm Afreen.  **
+# Hello, I'm Afreen.
 
 CSE Undergrad | Designer | Tech Explorer  
 
 ---
 
-##** About Me ** 
+## About Me 
 I'm a Computer Science undergrad who enjoys blending design and technology.  
 I like building things that are not just functional, but feel intuitive and human.  
 
 ---
 
-> [NOTE]  
+> [!NOTE]  
 > Exploring UI/UX, development, and writing.  
 > Recently started experimenting with content creation — learning as I go.
 
@@ -20,8 +20,8 @@ I like building things that are not just functional, but feel intuitive and huma
 
 <div align="left">
 
-| Project   | Description |
-|----------|------------|
+| Project         | Description |
+|-----------------|------------|
 | <a href="https://afreen.tech">Portfolio</a> | Personal website showcasing my work |
 | <a href="https://resync.afreen.tech">ReSync AI</a> | AI-powered platform that tailors resumes to job descriptions and matches candidates with the right opportunities *(in development)* |
 
@@ -29,7 +29,7 @@ I like building things that are not just functional, but feel intuitive and huma
 
 ---
 
-## **Design**  
+## Design
 
 <p align="left">
   <a href="https://www.figma.com/proto/g0RgyLXIo9hyipAYYwNu8d/Portfolio?node-id=3-2&t=FcrSXksIFxcdKh8o-1&starting-point-node-id=3%3A2">
@@ -39,7 +39,7 @@ I like building things that are not just functional, but feel intuitive and huma
 
 ---
 
-##** Blogs ** 
+## Blogs 
 https://medium.com/@afreenaurshi.creates  
 
 ---
@@ -51,7 +51,7 @@ HTML, CSS (basics)
 
 ---
 
-##** Connect ** 
+## Connect
 
 <p align="left">
 
@@ -87,14 +87,14 @@ HTML, CSS (basics)
 
 ---
 
-## **Currently ** 
+## Currently 
 Learning more about development and design  
 Building meaningful projects  
 Exploring content creation  
 
 ---
 
-##** Random Facts ** 
+## Random Facts 
 I write poetic and expressive content  
 I pay attention to small design details  
 I like combining creativity with logic  
