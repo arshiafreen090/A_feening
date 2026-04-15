@@ -30,11 +30,11 @@ I like building things that are not just functional, but feel intuitive and huma
 
 ## Design and Blogs 😸  
 
-I enjoy crafting clean, user-focused interfaces and experimenting with layouts. <a href="https://www.figma.com/proto/g0RgyLXIo9hyipAYYwNu8d/Portfolio?node-id=3-2&t=FcrSXksIFxcdKh8o-1&starting-point-node-id=3%3A2">
+I enjoy crafting clean, user-focused interfaces and experimenting with layouts.  <a href="https://www.figma.com/proto/g0RgyLXIo9hyipAYYwNu8d/Portfolio?node-id=3-2&t=FcrSXksIFxcdKh8o-1&starting-point-node-id=3%3A2">
   <img src="https://img.shields.io/badge/Figma%20Portfolio-F24E1E?style=flat&logo=figma&logoColor=white" />
 </a> 
 
-I write about thoughts, experiences, and ideas around growth, creativity, and tech. <a href="https://medium.com/@afreenaurshi.creates">
+I write about thoughts, experiences, and ideas around growth, creativity, and tech.  <a href="https://medium.com/@afreenaurshi.creates">
   <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
 </a>
 
@@ -70,13 +70,14 @@ I write about thoughts, experiences, and ideas around growth, creativity, and te
 
 ---
 
+
 ---
 
 ## Random Facts (●'◡'●)  
-→ I write poetic and expressive content  
+→ I try to learn everything and explore broadly  
 → I notice small design details most people ignore  
-→ I like combining creativity with logic  
-→ Still figuring things out, but consistently  
+→ New tech? I’m on it  
+→ I focus on building useful, practical solutions  
 
 ---
 
