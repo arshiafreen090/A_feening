@@ -1,10 +1,10 @@
-# Heyaaa! I'm Afreen 
+# Heyaaa! I'm Afreen >.< 
 
 > CSE Undergrad | Designer | Tech Explorer  
 
 ---
 
-## About Me  
+## About Me 🍜
 I'm a Computer Science undergrad who enjoys blending design and technology.  
 I like building things that are not just functional, but feel intuitive and human.  
 
@@ -15,7 +15,7 @@ I like building things that are not just functional, but feel intuitive and huma
 
 ---
 
-## Projects  
+## Projects 🤖 
 
 <div align="center">
 
@@ -28,7 +28,7 @@ I like building things that are not just functional, but feel intuitive and huma
 
 ---
 
-## Design  
+## Design 😸  
 
 I enjoy crafting clean, user-focused interfaces and experimenting with layouts.  
 
@@ -38,7 +38,7 @@ I enjoy crafting clean, user-focused interfaces and experimenting with layouts.
 
 ---
 
-## Blogs  
+## Blogs ✍️ 
 
 I write about thoughts, experiences, and ideas around growth, creativity, and tech.  
 
@@ -48,14 +48,14 @@ I write about thoughts, experiences, and ideas around growth, creativity, and te
 
 ---
 
-## Skills  
+## Skills 💅
 → C++, Python (learning)  
 → Figma, Canva, Photoshop  
 → HTML, CSS (basics)  
 
 ---
 
-## Connect  
+## Connect 🌐 
 
 <a href="mailto:arshiafreen090@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -78,14 +78,14 @@ I write about thoughts, experiences, and ideas around growth, creativity, and te
 
 ---
 
-## Currently  
+## Currently 
 → Learning more about development and design  
 → Building meaningful projects  
 → Exploring content creation  
 
 ---
 
-## Random Facts  
+## Random Facts (●'◡'●)  
 → I write poetic and expressive content  
 → I notice small design details most people ignore  
 → I like combining creativity with logic  
@@ -93,4 +93,4 @@ I write about thoughts, experiences, and ideas around growth, creativity, and te
 
 ---
 
-> Trying to build, learn, and create something meaningful.
+> Trying to build, learn, and create something meaningful🌻
